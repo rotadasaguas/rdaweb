@@ -1,4 +1,4 @@
-# RDA - Sistemas de Cadastros & WebService
+# RDA - Sistema de Cadastros & WebService
 
 Projeto desenvolvido em PHP, sistema para cadastros de locais e agencias, WebService para o funcionamento do Aplicativo Android.
 
