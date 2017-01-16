@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="196mm"
+   height="196mm"
+   viewBox="0 0 694.48819 694.48819"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icone-android-screen.svg">
+  <defs
+     id="defs3338">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4148">
+      <stop
+         style="stop-color:#19aeff;stop-opacity:1;"
+         offset="0"
+         id="stop4150" />
+      <stop
+         style="stop-color:#005c94;stop-opacity:1"
+         offset="1"
+         id="stop4152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4148"
+       id="linearGradient4154"
+       x1="391.93921"
+       y1="417.98645"
+       x2="745.49261"
+       y2="1312.9817"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1528.471"
+     inkscape:cy="111.98948"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3341">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-357.87406)">
+    <rect
+       style="fill:url(#linearGradient4154);fill-opacity:1"
+       id="rect3346"
+       width="642.85718"
+       height="648.57147"
+       x="28.57143"
+       y="383.79077"
+       ry="20.714287" />
+    <g
+       style="fill:#ffffff;stroke:none"
+       transform="matrix(0.10234333,0,0,-0.09236043,49.536462,982.72816)"
+       id="g4160">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 2960,5726 c -552,-92 -908,-634 -769,-1170 80,-307 405,-955 805,-1603 l 109,-177 80,127 c 467,735 843,1529 869,1837 48,569 -521,1082 -1094,986 z m 371,-462 c 376,-194 379,-726 5,-912 -343,-171 -735,74 -736,459 0,371 404,622 731,453 z"
+         id="path4162"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 1080,4494 C 1042,4481 973,4434 926,4387 772,4233 778,4317 784,2328 l 6,-1758 44,-82 c 83,-155 213,-228 409,-228 l 93,0 665,1243 666,1243 -443,887 -444,887 -315,-2 c -173,-1 -346,-12 -385,-24 z"
+         id="path4164"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3714,3111 c -415,-777 -754,-1417 -754,-1422 0,-5 468,-9 1041,-9 l 1040,0 -5,1305 c -6,1264 -7,1307 -46,1373 -73,124 -131,151 -337,159 l -185,7 -754,-1413 z"
+         id="path4166"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 2494,855 C 2366,617 2200,289 2200,274 c 0,-30 2428,-16 2528,14 235,71 311,197 312,517 l 0,215 -1228,0 -1229,0 -89,-165 z"
+         id="path4168"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
